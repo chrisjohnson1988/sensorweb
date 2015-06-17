@@ -4,7 +4,7 @@
 databases:
   sos:
     user:     sosuser
-    password: md50fb7b7ae906c66a87cb2aa1a45c3cd6a
+    password: md5af3e8ca7c774fd76bfb42c34d1cbaece
     template: template_postgis
     
 pg_rules:

@@ -11,3 +11,13 @@ Once everything is installed, open up a terminal window and execute:
     vagrant up
 
 Starting up your vagrant box for the first time may take a little while.
+
+## Accessing the Application
+
+Port forwarding has been set up so that you can access the web application from [port 80 on your localhost](http://localhost)
+
+You will need to complete the installation of the web application after provisioning. A postgis database will have been set up which can be accessed using:
+
+    dbname:   sos
+    username: sosuser
+    password: pa55word
