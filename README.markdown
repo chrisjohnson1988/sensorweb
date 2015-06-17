@@ -1,6 +1,6 @@
 # Puppet Managaged 52° North  - A Vagrant Box
 
-This is the a 52° North SOS webserver, it will allow you to spin up an instance of the [SOS])(http://52north.org/communities/sensorweb/sos/) webapp with all the prerequisite software installed. Have a look in the Puppetfile to see which modules are being installed onto your vagrant box
+This is the a 52° North SOS webserver, it will allow you to spin up an instance of the [SOS](http://52north.org/communities/sensorweb/sos/) webapp with all the prerequisite software installed. Have a look in the Puppetfile to see which modules are being installed onto your vagrant box
 
 ## Getting started
 
