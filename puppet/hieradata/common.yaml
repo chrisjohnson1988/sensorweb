@@ -6,8 +6,7 @@ databases:
     user:     sosuser
     password: md50fb7b7ae906c66a87cb2aa1a45c3cd6a
     template: template_postgis
-    require:  Class[postgresql::server::postgis]
-
+    
 pg_rules:
   sos:
     name:        Allow access to SOS DB by sosuser
