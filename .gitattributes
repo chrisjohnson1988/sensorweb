@@ -1,0 +1,4 @@
+* text=auto
+
+# The shell files are going to be run on the ubuntu box
+*.sh text eol=lf
